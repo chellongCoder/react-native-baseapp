@@ -1,0 +1,7 @@
+export const GET_REPLY = '@@redux/REPLY/GET_REPLY'
+export const GET_REPLY_FULFILLED = '@@redux/REPLY/GET_REPLY_FULFILLED'
+export const GET_REPLY_REJECTED = '@@redux/REPLY/GET_REPLY_REJECTED'
+export const RESET_STORE = '@@redux/REPLY/RESET_STORE'
+
+export const POST_REPLY_LOADING = '@@redux/REPLY/POST_REPLY_LOADING'
+export const POST_REPLY_FULFILLED = '@@redux/REPLY/POST_REPLY_FULFILLED'

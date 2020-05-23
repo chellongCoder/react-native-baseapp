@@ -1,0 +1,31 @@
+export interface IProfile {
+  id: number;
+  name: string;
+  phone: string;
+  email: string;
+  gender: number;
+  birthday: string;
+  aff_id: string;
+  total_order: number;
+  point: number;
+  address_id: number;
+  address_name: string;
+  province_id: string;
+  ward_id: string;
+  district_id: string;
+  total_success_order: number;
+  bank_number: string;
+  bank_location: string;
+  bank_card_holder: string;
+  bank_name: string;
+  bank_code: string;
+  personal_card_code: string;
+  personal_card_name: string;
+  personal_card_front: string;
+  personal_card_back: string;
+  personal_card_avatar: string;
+  personal_card_verified_at: string;
+  province_name: string;
+  ward_name: string;
+  district_name: string;
+}

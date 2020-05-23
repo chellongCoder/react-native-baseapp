@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "536632012609",
+    "firebase_url": "https://miing-app.firebaseio.com",
+    "project_id": "miing-app",
+    "storage_bucket": "miing-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:536632012609:android:7ce84ec019e843865b3bc0",
+        "android_client_info": {
+          "package_name": "com.reactnative.baseapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "536632012609-mjq95qritlu7etds1f0054iug897ukht.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.reactnative.baseapp",
+            "certificate_hash": "50fc1ceb2b76ee9abf3accf33c31ac9e3c93e064"
+          }
+        },
+        {
+          "client_id": "536632012609-dnpg7ucasp5ccmn26e0hk4hhvil9ldmr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6FpK2J6fbPx1Xc66gLlNznBDkrSZd8XA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "536632012609-dnpg7ucasp5ccmn26e0hk4hhvil9ldmr.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "536632012609-1bgndf62asgqipadrugujq9p13auc4oj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.reactnative.baseapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

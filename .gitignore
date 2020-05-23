@@ -1,0 +1,84 @@
+# OSX
+#
+.DS_Store
+
+# Xcode
+#
+build/
+*.pbxuser
+!default.pbxuser
+*.mode1v3
+!default.mode1v3
+*.mode2v3
+!default.mode2v3
+*.perspectivev3
+!default.perspectivev3
+xcuserdata
+*.xccheckout
+*.moved-aside
+DerivedData
+*.hmap
+*.ipa
+*.xcuserstate
+
+# Android/IntelliJ
+#
+build/
+.idea
+.gradle
+local.properties
+*.iml
+android/app/build/generated/
+# node.js
+#
+node_modules/
+npm-debug.log
+yarn-error.log
+package-lock.json
+yarn.lock
+
+# BUCK
+buck-out/
+\.buckd/
+*.keystore
+!debug.keystore
+
+# fastlane
+#
+# It is recommended to not store the screenshots in the git repo. Instead, use fastlane to re-generate the
+# screenshots whenever they are needed.
+# For more information about the recommended setup visit:
+# https://docs.fastlane.tools/best-practices/source-control/
+
+*/fastlane/report.xml
+*/fastlane/Preview.html
+*/fastlane/screenshots
+
+# Bundle artifact
+*.jsbundle
+
+# CocoaPods
+/ios/Pods/
+/ios/Podfile.lock
+
+ios/Podfile.lock
+ios/Podfile.lock
+.vscode/.react/index.bundle
+.vscode/.react/debuggerWorker.js
+.vscode/.react/index.map
+ios/Podfile.lock
+
+ios/Pods/
+yarn.lock
+.jest/
+android/.settings/org.eclipse.buildship.core.prefs
+ios/BaseApp.xcworkspace/xcshareddata/WorkspaceSettings.xcsettings
+ios/BaseApp.xcodeproj/project.xcworkspace/contents.xcworkspacedata
+ios/BaseApp.xcodeproj/project.xcworkspace/xcshareddata/IDEWorkspaceChecks.plist
+android/app/build_defs.bzl
+android/app/.project
+android/app/.classpath
+android/app/.settings/org.eclipse.buildship.core.prefs
+android/app/release/app-release.apk
+android/app/debug.keystore
+ios/BaseApp.xcworkspace/contents.xcworkspacedata

@@ -1,0 +1,10 @@
+export const GET_PRODUCT = '@@redux/HOME/GET_PRODUCT'
+export const GET_PRODUCT_FULFILLED = '@@redux/HOME/GET_PRODUCT_FULFILLED'
+export const GET_PRODUCT_REJECTED = '@@redux/HOME/GET_PRODUCT_REJECTED'
+export const REFRESH_PRODUCT_FULFILLED =
+  '@@redux/HOME/REFRESH_PRODUCT_FULFILLED'
+
+export const GET_ME = '@@redux/HOME/GET_ME'
+
+export const RESET_STORE = '@@redux/HOME/RESET_STORE'
+export const RESET_PRODUCT = '@@redux/HOME/RESET_PRODUCT'

@@ -1,0 +1,7 @@
+export const GET_BANKS = '@@redux/SYSTEM/GET_BANKS'
+export const GET_BANKS_FULLFILLED = '@@redux/SYSTEM/GET_BANKS_FULLFILLED'
+
+export const GET_UNIQUE_DEVICE_ID = '@@redux/SYSTEM/GET_UNIQUE_DEVICE_ID'
+export const GET_FCM_TOKEN = '@@redux/SYSTEM/GET_FCM_TOKEN'
+
+export const POST_USER_DEVICE = '@@redux/SYSTEM/POST_USER_DEVICE'

@@ -1,0 +1,5 @@
+export const SAVE_SEARCH_TEXT = '@@redux/SEARCH/SAVE_SEARCH_TEXT'
+export const REMOVE_ITEM_HISTORY = '@@redux/SEARCH/REMOVE_ITEM_HISTORY'
+
+export const RESET_STORE = '@@redux/SEARCH/RESET_STORE'
+export const REMOVE_ALL_HISTORY = '@@redux/SEARCH/REMOVE_ALL_HISTORY'

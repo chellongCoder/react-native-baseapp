@@ -1,0 +1,4 @@
+export const REF_BOTTOMTAB = '@@redux/CHANGE_REF_BOTTOMTAB'
+export const REF_SWITCH_NAVIGATOR = '@@redux/CHANGE_REF_SWITCH_NAVIGATOR'
+export const IS_LOADING = '@@redux/UI/IS_LOADING'
+export const NAVIGATION_DRAWER = '@@redux/UI/CHANGE_NAVIGATION_DRAWER'
