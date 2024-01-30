@@ -69,7 +69,7 @@
     "react-native-reanimated": "~1.4.0",
     "react-native-render-html": "^4.2.0",
     "react-native-safe-area-context": "^0.7.3",
-    "react-native-screens": "2.0.0-alpha.12",
+    "react-native-screens": "2.18.1",
     "react-native-select-two": "https://gitlab.com/longnn.dev7798/react-native-select-two-custom.git",
     "react-native-snap-carousel": "^3.8.4",
     "react-native-spinkit": "^1.5.0",
