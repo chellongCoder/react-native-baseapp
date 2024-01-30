@@ -83,7 +83,7 @@
     "react-native-units": "^1.0.0",
     "react-native-vector-icons": "^6.6.0",
     "react-native-video": "^4.4.5",
-    "react-native-web": "~0.11.7",
+    "react-native-web": "~0.19.10",
     "react-native-webview": "^8.1.2",
     "react-navigation": "^4.0.10",
     "react-navigation-drawer": "^2.3.1",
