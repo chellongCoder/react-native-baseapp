@@ -28,7 +28,7 @@
     "@types/react-native-star-rating": "^1.1.1",
     "@types/react-native-video": "^5.0.1",
     "@types/react-redux": "^7.1.7",
-    "appcenter-cli": "^2.3.3",
+    "appcenter-cli": "^3.0.0",
     "git": "^0.1.5",
     "mobx": "^5.14.2",
     "mobx-persist": "^0.4.1",
